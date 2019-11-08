@@ -8,6 +8,7 @@ public class ArrayListConcept {
 	public static <E> void main(String[] args) {
 		// TODO Auto-generated method stub
 		int a[]= new int[3]; //static array -- size is fixed
+		//Iam Adding comments/Doing changes to check for GIT concept
 		//Dynamic Array--ArrayList
 		//1.can contain duplicate values/elements
 		//2.Maintains insertion order
