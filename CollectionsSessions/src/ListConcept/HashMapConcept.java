@@ -18,7 +18,6 @@ public class HashMapConcept {
 		hm.put(1, "Selenium");
 		hm.put(2, "QTP");
 		hm.put(3, "RESTAPI");
-
 		System.out.println("Print the 1 index value in hasmap:" +hm.get(1));
 		System.out.println("Print the 4 index value in hasmap:" +hm.get(4));
 		
@@ -29,7 +28,6 @@ public class HashMapConcept {
 		//removing an object
 		System.out.println("*****how to remove element in hashmap*********");
 		System.out.println("Printing hashmap before removing second "+hm);
-
 		hm.remove(2);
 		System.out.println("Printing hashmap after removing second "+hm);
 		
